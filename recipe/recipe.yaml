@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/spmd-types/spmd_types-${{ version }}.tar.gz
-  sha256: 6e1f518a7624a753a9500ccf11401595535f9894125ebb606d0bc2330cc6c9a8
+  sha256: 2541599fb94af5a1b77718ba0e3d5bf6b9465f47592f97ba529e6d6d2ad21ab4
 
 build:
   number: 0
