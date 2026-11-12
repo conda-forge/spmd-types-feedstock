@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.3.1"
+  version: "0.3.2"
 
 package:
   name: spmd-types
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/spmd-types/spmd_types-${{ version }}.tar.gz
-  sha256: 914c317a51331219c0a1a76f222d8f7ade317875cc13da689dca682f18f83faa
+  sha256: 654c72e8211de8de5fe1a0dcb82e4337d21d2243cdf3c89064ef915ac8cfd689
 
 build:
   number: 0
